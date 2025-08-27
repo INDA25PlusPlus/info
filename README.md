@@ -1,5 +1,3 @@
-# INDA25PlusPlus
-
 ## Allmän information
 
 * Namn på repon
