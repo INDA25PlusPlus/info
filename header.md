@@ -6,4 +6,3 @@
 * ...
 
 ## Uppgifter och slides
-* [00-intro](assignments/00-intro) ([slides](assignments/00-intro/slides.pdf))

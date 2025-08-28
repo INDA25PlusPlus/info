@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+cd "$(dirname "$0")"
+cp header.md README.md
+for dir in assignments/*; do
+	name="${dir##*/}"
+	>>README.md echo "* [$name]($dir) ([slides]($dir/slides.pdf))"
+done
