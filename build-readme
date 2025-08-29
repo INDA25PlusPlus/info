@@ -3,5 +3,8 @@ cd "$(dirname "$0")"
 cp header.md README.md
 for dir in assignments/*; do
 	name="${dir##*/}"
-	>>README.md echo "* [$name]($dir) ([slides]($dir/slides.pdf))"
+	line="* [$name]($dir)"
+	slides="$dir"/slides.pdf
+	[ -f "$slides" ] && line+=" ([slides]($slides))"
+	>>README.md echo "$line"
 done
