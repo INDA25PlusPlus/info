@@ -1,9 +1,28 @@
 ## Allmän information
 
-* Namn på repon
-* Regler (AI etc...)
-* Regular om man vill
-* ...
+* Det är *strikt förbjudet* att lämna in AI-genererad kod.
+* Var noga med att döpa era repon enligt instruktionerna i uppgifterna.
+* Var noga med att göra era repon privata om det framgår i instruktionerna. I allmänhet ska
+  repon döpas \<kth_id\>-\<uppgift\>. Om flera personer samarbetar i en uppgift ska repot döpas
+  \<kth_id_1\>-\<kth_id_2\>-...-\<uppgift\>.
+* Det går bra att göra regular-uppgifter om det kör ihop sig någon vecka. Var då
+  noga med att informera någon av oss så att vi vet.
+
+## Inbokade övningar
+
+* 2025-09-05 08.00 - 4523
+* 2025-09-12 08.00 - 1537
+* 2025-09-19 10:00 - 1537
+* 2025-09-26 08.00 - 1537
+* 2025-10-03 08.00 - 1537
+* 2025-10-10 08.00 - 1537
+* 2025-10-17 _Tentaperiod_
+* 2025-10-24 _Tentaperiod_
+* 2025-10-31 08.00 - 1537
+* 2025-11-07 10:00 - 4523
+* 2025-11-14 08.00 - 1537
+* 2025-11-21 08.00 - TBA
+* 2025-11-28 08.00 - TBA
+* 2025-12-05 08.00 - TBA
 
 ## Uppgifter och slides
-* [00-intro](assignments/00-intro)

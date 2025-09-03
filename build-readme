@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+shopt -s nullglob
 cd "$(dirname "$0")"
 cp header.md README.md
 for dir in assignments/*; do
