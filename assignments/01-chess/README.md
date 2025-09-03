@@ -16,7 +16,7 @@ kommentarer samt tester för att se till att koden fungerar.
 Vi rekommenderar att ni har en representation av brädet, kan hantera
 vanliga drag och tagning av pjäser till nästa fredag.  Ni **ska**
 använda er av Cargo och ni **ska** skriva tester till er kod. Lägg koden
-i ett publikt gitrepo på github.com i INDA24PlusPlus organisationen,
+i ett publikt gitrepo på github.com i INDA25PlusPlus organisationen,
 "INDA25PlusPlus/**_[ditt_kth-id]_**-chess". Det är viktigt att ni gör denna läxa
 ordentligt, eftersom att senare läxor kommer att bygga vidare på den.
 
