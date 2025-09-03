@@ -26,3 +26,4 @@
 * 2025-12-05 08.00 - TBA
 
 ## Uppgifter och slides
+* [01-chess](assignments/01-chess) ([slides](assignments/01-chess/slides.pdf))
