@@ -5,6 +5,7 @@ cp header.md README.md
 for dir in assignments/*; do
 	name="${dir##*/}"
 	line="* [$name]($dir)"
+	[ -f "$dir"/README.md ] || line="* $name"
 	slides="$dir"/slides.pdf
 	[ -f "$slides" ] && line+=" ([slides]($slides))"
 	>>README.md echo "$line"
