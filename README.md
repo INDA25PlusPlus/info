@@ -27,3 +27,4 @@
 
 ## Uppgifter och slides
 * [01-chess](assignments/01-chess) ([slides](assignments/01-chess/slides.pdf))
+* 02-testing ([slides](assignments/02-testing/slides.pdf))
