@@ -26,6 +26,6 @@
 * 2025-12-05 08.00 - TBA
 
 ## Uppgifter och slides
-* [01-chess](assignments/01-chess) ([slides](assignments/01-chess/slides.pdf))
-* 02-testing ([slides](assignments/02-testing/slides.pdf))
-* [03-gui](assignments/03-gui) ([slides](assignments/03-gui/slides.pdf))
+* [02-chess](assignments/02-chess) ([slides](assignments/02-chess/slides.pdf))
+* 03-testing ([slides](assignments/03-testing/slides.pdf))
+* [04-gui](assignments/04-gui) ([slides](assignments/04-gui/slides.pdf))

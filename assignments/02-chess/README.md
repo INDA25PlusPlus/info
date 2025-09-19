@@ -1,4 +1,4 @@
-# Homework 1 - Schackbibliotek
+# Homework 2 - Schackbibliotek
 
 Läxan för följande två veckor är att implementera logiken till ett
 schackspel (vems tur det är, hur pjäser får röra sig, schackning,

@@ -1,4 +1,4 @@
-# Uppgift 3 - Chess GUI
+# Uppgift 4 - Chess GUI
 
 Nu är det dags att sätta era schackbibliotek på prov!
 Skapa ett repo under INDA25PlusPlus med namnet *[kth_id]-gui*.
