@@ -4,6 +4,8 @@ Under denna vecka ska ni implementera nätverksprotokollet som ni utvecklade
 under övningen för att kunna spela mot varandra över ett nätverk med era
 schackspel. Ert program ska *både* kunna ansluta till en motståndare och ta emot
 anslutningar. Specifikationen för protokollet finns [här](https://github.com/INDA25PlusPlus/chesstp-spec).
+Det går bra att välja server-/klientroll med en flagga på kommandoraden (ni behöver
+alltså inte lägga till nån slags grafisk meny eller dylikt).
 
 
 För att använda TCP i Rust behöver ni ha koll på dessa structs:
