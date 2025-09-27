@@ -25,4 +25,8 @@ för detta finns [här](https://doc.rust-lang.org/std/net/struct.TcpStream.html#
 Ni fortsätter arbeta med de repon ni skapade i förra uppgiften (`kth_id-gui`).
 
 
+*Tips*: För att testa era program lokalt kan ni använda er av
+[loopbackadressen](https://en.wikipedia.org/wiki/Localhost#Loopback) `127.0.0.1`.
+
+
 Lycka till!
