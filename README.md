@@ -30,3 +30,4 @@
 * 03-testing ([slides](assignments/03-testing/slides.pdf))
 * [04-gui](assignments/04-gui) ([slides](assignments/04-gui/slides.pdf))
 * [05-networking](assignments/05-networking) ([slides](assignments/05-networking/slides.pdf))
+* [06-compilers](assignments/06-compilers) ([slides](assignments/06-compilers/slides.pdf))
