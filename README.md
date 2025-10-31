@@ -32,3 +32,4 @@
 * [05-networking](assignments/05-networking) ([slides](assignments/05-networking/slides.pdf))
 * [06-compilers](assignments/06-compilers) ([slides](assignments/06-compilers/slides.pdf))
 * [07-compilers](assignments/07-compilers) ([slides](assignments/07-compilers/slides.pdf))
+* [08-emulator](assignments/08-emulator) ([slides](assignments/08-emulator/slides.pdf))
