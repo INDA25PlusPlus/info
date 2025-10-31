@@ -15,7 +15,7 @@ Om ni hittar på en egen arkitektur kan det vara en bra idé att skriva en enkel
 assembler också, så ni enkelt kan skriva program till emulatorn. För existerande
 arkitekturer kan ni kolla om det redan finns en assembler ni kan använda.
 
-Arbetet sker i grupper på 2-3 personer. Ge repot namnet **kth-id1**-**kth-id2**-emulators.
+Arbetet sker i grupper på 2-3 personer. Ge repot namnet **kth-id1**-**kth-id2**-emulator.
 
 ## Länkar
 * [Slides](assignments/08-emulator/slides.pdf)
