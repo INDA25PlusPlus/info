@@ -34,3 +34,4 @@
 * [07-compilers](assignments/07-compilers) ([slides](assignments/07-compilers/slides.pdf))
 * [08-emulator](assignments/08-emulator) ([slides](assignments/08-emulator/slides.pdf))
 * [09-cryptography](assignments/09-cryptography)
+* [10-ml](assignments/10-ml)
