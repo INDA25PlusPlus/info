@@ -66,4 +66,4 @@ $\frac{dE}{dX} = \sigma'(\frac{dE}{dY})$
 ### Ett lager i ett NN (vikter, bias och activation)
 Kan representeras som ett lager med endast vikter+bias följt av ett med bara aktiveringsfunktion, väldigt smidigt!
 
-## [Slides](https://docs.google.com/presentation/d/1367BzIjyQL_1SNfL3wed_Pj0_x613CK3oMq0XKy--48/edit?usp=drivesdk)
+## [Slides](https://docs.google.com/presentation/d/1e7eKdCQiuVJrRPgCUhhxhiDKNht9klhqUGT0JXfwAZg/)
