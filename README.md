@@ -35,3 +35,4 @@
 * [08-emulator](assignments/08-emulator) ([slides](assignments/08-emulator/slides.pdf))
 * [09-cryptography](assignments/09-cryptography)
 * [10-ml](assignments/10-ml)
+* [11-complexity](assignments/11-complexity) ([slides](assignments/11-complexity/slides.pdf))
