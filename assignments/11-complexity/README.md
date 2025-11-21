@@ -41,7 +41,7 @@ Döp repot till *kth-id*-complexity. Godkända inlämningsformat:
 * Latex-kod
 * Typst-kod
 * PDF
-fa
+* Markdown
 * Plain text (om den är läsbar)
 
 ## Material
