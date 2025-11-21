@@ -1,4 +1,4 @@
-# Uppguft 6 - Komplexitet och Korrekhet
+# Uppgift 11 - Komplexitet och Korrekthet
 
 ## 1 Induktion
 Använd induktion för att bevisa dessa formler:
