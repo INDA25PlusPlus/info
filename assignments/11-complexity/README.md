@@ -37,7 +37,7 @@ double expRecursive(double x, int n) {
 
 ## Inlämning
 
-Döp repot till *kth-id*-complexity. Godkända inlämningsformat:
+Döp repot till *kth-id*-complexity. Repot ska vara *privat*. Godkända inlämningsformat:
 * Latex-kod
 * Typst-kod
 * PDF
