@@ -36,3 +36,4 @@
 * [09-cryptography](assignments/09-cryptography)
 * [10-ml](assignments/10-ml)
 * [11-complexity](assignments/11-complexity) ([slides](assignments/11-complexity/slides.pdf))
+* [12-greedy](assignments/12-greedy) ([slides](assignments/12-greedy/slides.pdf))
