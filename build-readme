@@ -1,12 +1,23 @@
 #!/usr/bin/env bash
+
 shopt -s nullglob
-cd "$(dirname "$0")"
+cd "$(dirname "${BASH_SOURCE[0]}")"
+
+# Add header
 cp header.md README.md
+
+# Add links to assignments
 for dir in assignments/*; do
 	name="${dir##*/}"
 	line="* [$name]($dir)"
+
+	# No README
 	[ -f "$dir"/README.md ] || line="* $name"
+
+	# Add link to slides
 	slides="$dir"/slides.pdf
 	[ -f "$slides" ] && line+=" ([slides]($slides))"
+
+	# Add entry
 	>>README.md echo "$line"
 done
