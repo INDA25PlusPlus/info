@@ -22,3 +22,6 @@ Listan med problem finns [här](https://kth.kattis.com/courses/DD2016/plusplus24
 - [Horse in ambush](https://kth.kattis.com/courses/DD2016/plusplus24/assignments/avdnhe/problems/ambush)
 - [Nested dolls](https://kth.kattis.com/courses/DD2016/plusplus24/assignments/avdnhe/problems/nesteddolls)
 
+Lösningarna ska läggas i ett repo med namnet *\<kth-id\>-greedy*. Repot måste vara **privat**.
+Ladda upp en separat fil för varje lösning, med en kommentar där ni anger *solution ID*
+som ni får från Kattis högst upp i varje fil.
