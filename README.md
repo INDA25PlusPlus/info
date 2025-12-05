@@ -37,3 +37,4 @@
 * [10-ml](assignments/10-ml)
 * [11-complexity](assignments/11-complexity) ([slides](assignments/11-complexity/slides.pdf))
 * [12-greedy](assignments/12-greedy) ([slides](assignments/12-greedy/slides.pdf))
+* [13-raytracer](assignments/13-raytracer) ([slides](assignments/13-raytracer/slides.pdf))
