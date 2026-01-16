@@ -25,6 +25,14 @@
 * 2025-11-28 08.00 - 4423
 * 2025-12-05 08.00 - 4423
 
+* 2026-01-16 08.00 - 1537
+* 2026-01-23 08.00 - 1537
+* 2026-01-30 08.00 - 1537
+* 2026-02-06 08.00 - 4523
+* 2026-02-13 08.00 - 1537
+* 2026-02-20 08.00 - 1537
+* 2026-02-27 08.00 - 1537
+
 ## Uppgifter och slides
 * [02-chess](assignments/02-chess) ([slides](assignments/02-chess/slides.pdf))
 * 03-testing ([slides](assignments/03-testing/slides.pdf))
