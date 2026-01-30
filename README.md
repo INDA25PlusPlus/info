@@ -48,3 +48,4 @@
 * [13-raytracer](assignments/13-raytracer) ([slides](assignments/13-raytracer/slides.pdf))
 * [14-simd](assignments/14-simd) ([slides](assignments/14-simd/slides.pdf))
 * [15-functional](assignments/15-functional) ([slides](assignments/15-functional/slides.pdf))
+* [16-graphs](assignments/16-graphs) ([slides](assignments/16-graphs/slides.pdf))
