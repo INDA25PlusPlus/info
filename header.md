@@ -1,3 +1,5 @@
+Webbversion: https://inda25plusplus.github.io/info/
+
 ## Allmän information
 
 * Det är *strikt förbjudet* att lämna in AI-genererad kod.
