@@ -51,3 +51,4 @@ Webbversion: https://inda25plusplus.github.io/info/
 * [14-simd](assignments/14-simd) ([slides](assignments/14-simd/slides.pdf))
 * [15-functional](assignments/15-functional) ([slides](assignments/15-functional/slides.pdf))
 * [16-graphs](assignments/16-graphs) ([slides](assignments/16-graphs/slides.pdf))
+* [17-allocators](assignments/17-allocators) ([slides](assignments/17-allocators/slides.pdf))
