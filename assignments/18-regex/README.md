@@ -33,3 +33,6 @@ men det kan finnas andra sätt också.
 Det går också att exekvera NFA:n med hjälp av tillståndsvektorer.
 Det är valfritt om man vill utöka syntaxen för att hantera t.ex.
 `?` (matchar 0-1 ggr.), `+` (matchar 1+ ggr.) etc.
+
+## Länkar
+- [Pseudokod för epsilon-closure och epsilon-fri NFA](extra.pdf)
