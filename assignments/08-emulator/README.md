@@ -18,7 +18,7 @@ arkitekturer kan ni kolla om det redan finns en assembler ni kan använda.
 Arbetet sker i grupper på 2-3 personer. Ge repot namnet **kth-id1**-**kth-id2**-emulator.
 
 ## Länkar
-* [Slides](assignments/08-emulator/slides.pdf)
+* [Slides](slides.pdf)
 * [Nand2Tetris (Hack Computer)](https://en.wikipedia.org/wiki/Hack_computer)
 * [Chip-8](https://en.wikipedia.org/wiki/CHIP-8)
 * [Intel 8080](https://en.wikipedia.org/wiki/Intel_8080)

@@ -59,6 +59,6 @@ Andra saker att tänka på:
 * Repot ska heta *kth_id-compiler*.
 
 Några användbara resurser:
-* [Slides från genomgången](assignments/06-compilers/slides.pdf)
+* [Slides från genomgången](slides.pdf)
 * [Bra bok om kompilatorer](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 * [Wikipediaartikel om rekursiv medåkning](https://en.wikipedia.org/wiki/Recursive_descent_parser)

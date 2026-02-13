@@ -12,7 +12,7 @@ kompileras av er kompilator. Programmet ska gå att kompilera och köra på någ
 sätt. Ge instruktioner i ert repo.
 
 Några användbara resurser:
-* [Slides från genomgången](assignments/07-compilers/slides.pdf)
+* [Slides från genomgången](slides.pdf)
 * [Bra bok om kompilatorer](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
 * [QBE](https://c9x.me/compile/)
 * [LLVM IR Reference](https://llvm.org/docs/LangRef.html) (Komplett referens, lite väl tungt)
