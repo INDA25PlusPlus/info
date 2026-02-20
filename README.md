@@ -53,3 +53,4 @@ Webbversion: https://inda25plusplus.github.io/info/
 * [16-graphs](assignments/16-graphs) ([slides](assignments/16-graphs/slides.pdf))
 * [17-allocators](assignments/17-allocators) ([slides](assignments/17-allocators/slides.pdf))
 * [18-regex](assignments/18-regex) ([slides](assignments/18-regex/slides.pdf))
+* [19-compression](assignments/19-compression) ([slides](assignments/19-compression/slides.pdf))
