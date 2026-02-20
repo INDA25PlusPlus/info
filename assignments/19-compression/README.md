@@ -11,3 +11,5 @@ med namnet `<kth-id>-compression`.
 ## Länkar
 - [Slides](slides.pdf)
 - [Computerphile om komprimering](https://www.youtube.com/playlist?list=PLaQkUT33bCj7Q35M-6LUQx1urG2CkRdG3) (se gärna _Entropy in Compression_ och _How Huffman Trees Work_)
+- [3Blue1Brown om information och entropi](https://www.youtube.com/watch?v=v68zYyaEmEA)
+- [Huffmankodning på Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
