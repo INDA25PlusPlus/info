@@ -39,6 +39,10 @@ Webbversion: https://inda25plusplus.github.io/info/
 * 2026-03-27 08.00 - 1537
 * 2026-04-02 08.00 - 1537
 
+* 2026-04-24 13.00 - D32
+* 2026-05-08 13.00 - D32
+* 2026-05-19 08.00 - D32
+
 ## Uppgifter och slides
 * [02-chess](assignments/02-chess) ([slides](assignments/02-chess/slides.pdf))
 * 03-testing ([slides](assignments/03-testing/slides.pdf))
